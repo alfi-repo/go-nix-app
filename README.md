@@ -6,7 +6,6 @@
 - WSL 2.2.4.0
 - Ubuntu 24.04 (noble)
 - Nix 2.22
-- 
 
 ## Prepare WSL (Optional)
 
